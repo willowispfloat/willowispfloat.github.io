@@ -1,0 +1,9 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://willowispfloat.github.io/willowispfloat_github_io_zp527_11.txt
+Sitemap: https://willowispfloat.github.io/willowispfloat_github_io_zp527_16.txt
+Sitemap: https://willowispfloat.github.io/willowispfloat_github_io_zp527_20.txt
+Sitemap: https://willowispfloat.github.io/willowispfloat_github_io_zp527_25.txt
+Sitemap: https://willowispfloat.github.io/willowispfloat_github_io_zp527_3.txt
+Sitemap: https://willowispfloat.github.io/willowispfloat_github_io_zp527_5.txt
